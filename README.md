@@ -14,7 +14,7 @@ Une application web professionnelle complète qui combine la génération d'imag
 - **Optimisation intelligente** : Amélioration automatique des prompts via Claude API
 - **Types d'images** : Logo, Personnage, Scène, Design
 - **Support multilingue** : Interface en Français, Arabe et Anglais
-- **Téléchargement facile** : Export des images en haute résolution
+- **Téléchargement facile** : Export des images en haute résolution 
 
 ### 🔍 Analyseur d'Images IA
 - **Analyse approfondie** : Description détaillée du contenu visuel
@@ -264,7 +264,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 📞 Contact
 
 - **Email** : achrafallali2003@gmail.com
-- **LinkedIn** : [Votre Profil]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/achraf-allali-9889a0321/))
+- **LinkedIn** : [Linkden](https://www.linkedin.com/in/achraf-allali-9889a0321/)
 
 ## 🐛 Bugs Connus & Roadmap
 
