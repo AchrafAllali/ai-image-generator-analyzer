@@ -251,9 +251,9 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👥 Auteurs
 
-- **Votre Nom** - *Développement initial* - [VotreGitHub](https://github.com/votre-username)
+- **Achraf Allali** - *Développement initial* - [VotreGitHub](https://github.com/AchrafAllali)
 
-## 🙏 Remerciements
+## ❤️ Remerciements
 
 - Anthropic pour l'API Claude
 - Salesforce pour le modèle BLIP
@@ -283,9 +283,9 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 Si vous rencontrez des problèmes :
 
-1. Vérifier les [Issues](https://github.com/votre-username/ai-image-generator/issues) existantes
+1. Vérifier les [Issues](https://github.com/AchrafAllali/ai-image-generator/issues) existantes
 2. Créer une nouvelle issue avec le template approprié
-3. Consulter la [Documentation](https://github.com/votre-username/ai-image-generator/wiki)
+3. Consulter la [Documentation](https://github.com/AchrafAllali/ai-image-generator/wiki)
 
 ---
 
