@@ -211,7 +211,7 @@ POST /api/test-translation
 - Body: { text, language }
 - Response: { success, original, translated }
 ```
-
+---
 ## 🛠️ Technologies d'IA Utilisées
 
 ### Modèles de Vision
@@ -247,7 +247,7 @@ echo "web: python server-final.py" > Procfile
 # Déployer
 git push heroku main
 ```
-
+---
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! Pour contribuer :
@@ -262,10 +262,6 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-## 👥 Auteurs
-
-- **Achraf Allali** - *Développement initial* - [VotreGitHub](https://github.com/AchrafAllali)
-
 ## ❤️ Remerciements
 
 - Anthropic pour l'API Claude
@@ -274,10 +270,14 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - La communauté Pollinations AI
 - Tous les contributeurs open-source
 
-## 📞 Contact
 
-- **Email** : achrafallali2003@gmail.com
-- **LinkedIn** : [Linkden](https://www.linkedin.com/in/achraf-allali-9889a0321/)
+## 👥 Auteur
+
+**Achraf Allali**
+
+- 🌐 GitHub: [@AchrafAllali](https://github.com/AchrafAllali)
+- 📧 Email: achrafallali2003@gmail.com
+- 💼 LinkedIn: [Votre profil LinkedIn](https://www.linkedin.com/in/achraf-allali-9889a0321/)
 
 ## 🐛 Bugs Connus & Roadmap
 
@@ -292,15 +292,19 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - [ ] API publique documentée
 - [ ] Application mobile (React Native)
 
-## 💡 Support
 
-Si vous rencontrez des problèmes :
 
-1. Vérifier les [Issues](https://github.com/AchrafAllali/ai-image-generator-analyzer/issues) existantes
-2. Créer une nouvelle issue avec le template approprié
-3. Consulter la [Documentation](https://github.com/AchrafAllali/ai-image-generator-analyzer/wiki)
+## 📞 Support
 
----
+Besoin d'aide ? Plusieurs options s'offrent à vous :
+
+- 📖 **Documentation** : Lisez ce README en détail
+- 🐛 **Bug Report** : [GitHub Issues](https://github.com/AchrafAllali/ai-image-generator-analyzer/issues)
+- 💬 **Discussions** : [GitHub Discussions](https://github.com/AchrafAllali/ai-image-generator-analyzer/discussions)
+- 📧 **Email** : achrafallali2003@gmail.com
+- 🎥 **Tutoriels vidéo** : [À venir sur YouTube](#)
+
+
 
 <p align="center">
   Fait avec ❤️ et ☕ par Achraf Allali
