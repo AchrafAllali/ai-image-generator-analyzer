@@ -129,10 +129,23 @@ ai-image-generator/
 ## 🎨 Captures d'Écran
 
 ### Générateur d'Images
-![Générateur](https://via.placeholder.com/800x400?text=Générateur+d'Images+IA)
+
+
+<img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/cff5a583-bfb2-46c4-9202-de12c7b755b7" />
+
+<img width="1920" height="973" alt="image" src="https://github.com/user-attachments/assets/d3643075-af7e-496b-8160-a90a8aa1fd5c" />
+
+<img width="1920" height="975" alt="image" src="https://github.com/user-attachments/assets/a898c419-56ca-4f9f-9b79-af2e64d0b910" />
+
 
 ### Analyseur d'Images
-![Analyseur](https://via.placeholder.com/800x400?text=Analyseur+d'Images+IA)
+
+
+
+<img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/3fd62f55-d6e3-4b8d-8404-6d2f14feff0f" />
+
+<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/49190085-8549-40a0-ab63-ea9e70354e35" />
+<img width="1920" height="968" alt="image" src="https://github.com/user-attachments/assets/1a9e0da4-4e87-48af-af88-e27032fbea5f" />
 
 ## ⚙️ Configuration
 
