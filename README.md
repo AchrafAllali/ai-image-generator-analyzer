@@ -283,9 +283,9 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 Si vous rencontrez des problèmes :
 
-1. Vérifier les [Issues](https://github.com/AchrafAllali/ai-image-generator/issues) existantes
+1. Vérifier les [Issues](https://github.com/AchrafAllali/ai-image-generator-analyzer/issues) existantes
 2. Créer une nouvelle issue avec le template approprié
-3. Consulter la [Documentation](https://github.com/AchrafAllali/ai-image-generator/wiki)
+3. Consulter la [Documentation](https://github.com/AchrafAllali/ai-image-generator-analyzer/wiki)
 
 ---
 
