@@ -302,7 +302,7 @@ Besoin d'aide ? Plusieurs options s'offrent à vous :
 - 🐛 **Bug Report** : [GitHub Issues](https://github.com/AchrafAllali/ai-image-generator-analyzer/issues)
 - 💬 **Discussions** : [GitHub Discussions](https://github.com/AchrafAllali/ai-image-generator-analyzer/discussions)
 - 📧 **Email** : achrafallali2003@gmail.com
-- 🎥 **Tutoriels vidéo** : [À venir sur YouTube](#)
+- 🎥 **Tutoriels vidéo** : [À venir sur YouTube](https://youtu.be/Gprdq50wJR4)
 
 
 
